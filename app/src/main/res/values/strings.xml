@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SMA Muhammadiyah Ekskul</string>
+    <string name="title">Pendaftaran Ekstrakurikuler SMA Muhammadiyah</string>
+    <string name="name_hint">Nama Lengkap</string>
+    <string name="nis_hint">NIS (Nomor Induk Siswa)</string>
+    <string name="class_prompt">Pilih Kelas</string>
+    <string name="birthdate">Tanggal Lahir</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="extracurricular">Ekstrakurikuler</string>
+    <string name="basketball">Basket</string>
+    <string name="soccer">Futsal</string>
+    <string name="robotics">Robotika</string>
+    <string name="english_club">English Club</string>
+    <string name="paskibra">Paskibra</string>
+    <string name="schedule">Hari dan Jam Kegiatan</string>
+    <string name="search_schedule">Cari jadwal kegiatan</string>
+    <string name="save_button">Simpan</string>
+    <string name="registration_result">Hasil Pendaftaran</string>
+    <string name="student_data">Data Siswa</string>
+</resources>
